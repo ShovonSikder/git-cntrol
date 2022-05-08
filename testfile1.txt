@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 hell iam dsjkbfbhdf dsjifhlf  chudsgfudgfv. jfekj 
 fejkfhjg dffddgh dfigj
+=======
+hell iam dsjkbfbhdf dsjifhlf  chudsgfudgfv
+hello how are you.
+rahad guru
+new line
+>>>>>>> 45a5e36
